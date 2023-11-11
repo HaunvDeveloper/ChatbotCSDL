@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Chatbot</title>  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Playpen+Sans:wght@700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&family=Playpen+Sans:wght@700&family=Roboto+Mono:ital@1&family=Tilt+Neon&display=swap" rel="stylesheet">
+    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <script src="script.js"></script>
+</head>
+<body>
+    <section id = "full">
+        <section id="header">
+            <p id = "title">Chatbot Truy vấn kiến thức môn Cơ Sở Dữ Liệu</p>
+        </section>
+        <div id="vien"></div>
+        <section id="content">
+            <section id="right">
+                <div id = "khung_history">
+                    <p id = "history">Kiến thức đã tra cứu gần đây</p>
+                </div>
+                <div id = "khung_mid">   
+                    <!-- List Box -->
+
+
+
+
+                </div>
+                <div style="display: flex; align-items: center; justify-content: space-between;">
+                    <span class="material-symbols-outlined" style="font-size: 40px; color: white;">
+                        open_in_new
+                    </span>
+                    <button id = "khung_new" onclick="createBox()">
+                        Tạo khung Chat mới +
+                    </button>
+                </div>
+            </section>
+
+            <section id = "chat">
+                    <div id = "mess">
+                        <div id = "listchat">
+                            <!-- List chat -->
+
+
+                        </div>
+                    </div>
+                    <div id="write">
+                        <div style="width: 90%; height: 80%;border: none;padding-top: 15px;padding-left: 30px;">
+                            <input type="text" onkeypress="getInput(event)" id="input" placeholder="Vấn đề bạn cần hỏi ?"> </input>
+                        </div>
+                        <div style="margin-top: 14px;margin-left: 20px;">
+                            <button class="material-icons" title="Send a message" onclick="getInput()">send</button>
+                        </div>
+                    </div>
+            </section>
+
+
+
+        </section>
+    </section>
+</body>
+</html>
