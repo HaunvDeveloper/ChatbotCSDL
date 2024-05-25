@@ -1,0 +1,12 @@
+hi
+Bạn muốn tìm hiểu vấn đề gì ?
+ví
+tôi chỉ biết kiến thức về lập trình
+ví dụ
+hãy học đi
+tôi muốn học về con trỏ
+user: hi
+bot: Rất vui lòng được giúp bạn
+user: tôi muốn học về c++
+user: chào bạn
+bot: Tôi có thể giúp gì cho bạn ?

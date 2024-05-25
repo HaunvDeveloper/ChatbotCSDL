@@ -1,0 +1,14 @@
+{
+  "uid": "eHaj86sfs1Z9Gi",
+  "name": "Kh\u00e1i ni\u1ec7m kh\u00f3a ch\u00ednh",
+  "chat": [
+    {
+      "user": "kh\u00f3a ch\u00ednh l\u00e0 g\u00ec",
+      "bot": "Kh\u00f3a ch\u00ednh (Primary key) l\u00e0 m\u1ed9t t\u1eadp h\u1ee3p c\u1ee7a m\u1ed9t ho\u1eb7c nhi\u1ec1u tr\u01b0\u1eddng / c\u1ed9t c\u1ee7a m\u1ed9t b\u1ea3ng duy nh\u1ea5t x\u00e1c \u0111\u1ecbnh m\u1ed9t b\u1ea3n ghi trong b\u1ea3ng c\u01a1 s\u1edf d\u1eef li\u1ec7u.\u00a0N\u00f3 kh\u00f4ng th\u1ec3 ch\u1ea5p nh\u1eadn null, gi\u00e1 tr\u1ecb nh\u00e2n b\u1ea3n.\u00a0Ch\u1ec9 c\u00f3 m\u1ed9t kh\u00f3a d\u1ef1 tuy\u1ec3n c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c kh\u00f3a ch\u00ednh."
+    },
+    {
+      "user": "H\u1eadu kh\u00f9m l\u00e0 g\u00ec?",
+      "bot": "\u0110\u1ecaNH NGH\u0128A: L\u01b0u tr\u1eef th\u1ed1ng nh\u1ea5t, tr\u00e1nh \u0111\u01b0\u1ee3c th\u00f4ng tin tr\u00f9ng l\u1eb7p.\nC\u01a1 ch\u1ebf \u0111i\u1ec1u khi\u1ec3n truy xu\u1ea5t h\u1ee3p l\u00fd, tr\u00e1nh \u0111\u01b0\u1ee3c vi\u1ec7c tranh ch\u1ea5p d\u1eef li\u1ec7u v\u00e0 \u0111\u1ea3m b\u1ea3o d\u1eef li\u1ec7u lu\u00f4n \u0111\u00fang t\u1ea1i m\u1ecdi th\u1eddi \u0111i\u1ec3m."
+    }
+  ]
+}

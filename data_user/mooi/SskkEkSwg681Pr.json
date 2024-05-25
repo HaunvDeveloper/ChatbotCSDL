@@ -1,0 +1,134 @@
+{
+  "uid": "SskkEkSwg681Pr",
+  "name": "Kh\u00e1i ni\u1ec7m select kh\u00f4ng s\u1eed d\u1ee5ng where",
+  "chat": [
+    {
+      "user": "b\u1ea1n c\u00f3 g\u1ee3i \u00fd cho t\u00f4i bi\u1ebft t\u00f4i n\u00ean h\u1ecfi c\u00e2u g\u00ec kh\u00f4ng",
+      "bot": "* L\u1ec7nh SELECT kh\u00f4ng s\u1eed d\u1ee5ng m\u1ec7nh \u0111\u1ec1 WHERE\nTrong c\u00e2u l\u1ec7nh truy v\u1ea5n, n\u1ebfu m\u1ec7nh \u0111\u1ec1 WHERE kh\u00f4ng \u0111\u01b0\u1ee3c khai b\u1ea3o th\u00ec k\u1ebft qu\u1ea3 c\u1ee7a c\u00e2u truy v\u1ea5n s\u1ebd l\u00e0:\n-\u0110\u1ed1i v\u1edbi c\u00e2u truy v\u1ea5n m\u00e0 m\u1ec7nh \u0111\u1ec1 FROM ch\u1ec9 s\u1eed d\u1ee5ng m\u1ed9t b\u1ea3ng d\u1eef li\u1ec7u th\u00ec t\u1ea5t c\u1ea3 c\u00e1c b\u1ed9 c\u1ee7a b\u1ea3ng d\u1eef li\u1ec7u \u0111\u00f3 s\u1ebd \u0111\u01b0\u1ee3c r\u00fat tr\u00edch. V\u00ed d\u1ee5 cho tr\u01b0\u1eddng h\u1ee3p n\u00e0y \u0111\u01b0\u1ee3c th\u1ec3 hi\u1ec7n \u1edf Q5.\n-\u0110\u1ed1i v\u1edbi c\u00e2u truy v\u1ea5n m\u00e0 m\u1ec7nh \u0111\u1ec1 FROM s\u1eed d\u1ee5ng nhi\u1ec1u b\u1ea3ng d\u1eef li\u1ec7u th\u00ec vi\u1ec7c r\u00fat tr\u00edch \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n tr\u00ean k\u1ebft qu\u1ea3 ph\u00e9p k\u1ebft gi\u1eefa c\u00e1c b\u1ea3ng d\u1eef li\u1ec7u n\u00e0y. V\u00ed d\u1ee5 cho tr\u01b0\u1eddng h\u1ee3p n\u00e0y \u0111\u01b0\u1ee3c th\u1ec3 hi\u1ec7n \u1edf Q6.\nQuery 5: Cho bi\u1ebft m\u00e3 gi\u00e1o vi\u00ean, h\u1ecd t\u00ean gi\u00e1o vi\u00ean.\nQ5. SELECT MAGV, H\u1eccT\u00caN \nFROM GI\u00c1O VI\u00caN\nQ5 s\u1ebd r\u00fat tr\u00edch to\u00e0n b\u1ed9 th\u00f4ng tin m\u00e3 gi\u00e1o vi\u00ean, h\u1ecd t\u00ean t\u1eeb b\u1ea3ng GI\u00c1O VI\u00caN. \nQuery 6: Cho bi\u1ebft k\u1ebft qu\u1ea3 ph\u00e9p t\u00edch \u0110\u1ec1-c\u00e1c c\u1ee7a hai quan h\u1ec7 GI\u00c1O VI\u00caN v\u00e0 B\u1ed8 M\u00d4N, ch\u1ec9 xu\u1ea5t ra h\u1ecd t\u00ean gi\u00e1o vi\u00ean v\u00e0 t\u00ean b\u1ed9 m\u00f4n. \nQ6: SELECT H\u1eccT\u00caN, T\u00caNBM\nFROM GI\u00c1O VI\u00caN, B\u1ed8 M\u00d4N\nQ6 s\u1ebd r\u00fat tr\u00edch to\u00e0n b\u1ed9 d\u1eef li\u1ec7u h\u1ecd t\u00ean t\u1eeb b\u1eb1ng gi\u00e1o vi\u00ean, t\u00ean b\u1ed9 m\u00f4n tu b\u1ea3ng b\u1ed9 m\u00f4n. Sau \u0111\u00f3 th\u1ef1c hi\u1ec7n k\u1ebft n\u1ed1i c\u00e1c b\u1ed9 d\u1eef li\u1ec7u t\u1eeb hai k\u1ebft qu\u1ea3 trung gian tr\u00ean \u0111\u1ec3 cho ra k\u1ebft qu\u1ea3 sau c\u00f9ng..\n\u0110\u1ec3 r\u00fat tr\u00edch t\u1ea5t c\u1ea3 c\u00e1c thu\u1ed9c t\u00ednh c\u1ee7a m\u1ed9t b\u1ea3ng d\u1eef li\u1ec7u ch\u00fang ta kh\u00f4ng c\u1ea7n li\u1ec7t k\u00ea t\u01b0\u1eddng m\u00ecnh t\u1ea5t c\u1ea3 thu\u1ed9c t\u00ednh c\u1ee7a b\u1ea3ng d\u1eef li\u1ec7u \u0111\u00f3, trong SQL cho ph\u00e9p ch\u00fang ta s\u1eed d\u1ee5ng d\u1ea5u sao (*) nh\u01b0 m\u1ed9t k\u00fd t\u1ef1 \u0111\u1ea1i di\u1ec7n cho t\u1ea5t c\u1ea3 c\u00e1c thu\u1ed9c t\u1ec9nh trong m\u1ed9t b\u1ea3ng d\u1eef li\u1ec7u.\nQuery 7: Cho bi\u1ebft th\u00f4ng tin c\u00e1c khoa.\nQ7. SELECT *\nFROM KHOA\nQ7 s\u1ebd tr\u1ea3 v\u1ec1 to\u00e0n b\u1ed9 c\u00e1c b\u1ed9 d\u1eef li\u1ec7u c\u00f3 trong KHOA v\u00e0 chi\u1ebfu l\u00ean t\u1ea5t c\u1ea3 c\u00e1c thu\u1ed9c t\u1ec9nh c\u1ee7a KHOA.\nK\u1ebft qu\u1ea3 c\u1ee7a m\u1ed9t c\u00e2u truy v\u1ea5n c\u00f3 th\u1ec3 c\u00f3 nh\u1eefng b\u1ed9 d\u1eef li\u1ec7u tr\u00f9ng nhau. SQL cho ph\u00e9p ch\u00fang ta c\u00f3 th\u1ec3 gi\u1eef l\u1ea1i ho\u1eb7c lo\u1ea1i b\u1ecf c\u00e1c b\u1ed9 tr\u00f9ng trong k\u1ebft qu\u1ea3 tr\u1ea3 v\u1ec1. N\u1ebfu ch\u00fang ta mu\u1ed1n lo\u1ea1i b\u1ecf c\u00e1c b\u1ed9 tr\u00f9ng trong k\u1ebft qu\u1ea3 tr\u1ea3 v\u1ec1 th\u00ec s\u1eed d\u1ee5ng t\u1eeb kh\u00f3a DISTINCT trong m\u1ec7nh \u0111\u1ec1 SELECT. N\u1ebfu ch\u00fang ta mu\u1ed1n hi\u1ec3n th\u1ecb c\u00e1c b\u1ed9 tr\u00f9ng th\u00ec theo c\u00e1ch t\u01b0\u1eddng m\u00ecnh ch\u00fang ta khai b\u1ea3o t\u1eeb kh\u00f3a ALL trong m\u1ec7nh \u0111\u1ec1 SELECT. N\u1ebfu ch\u00fang ta kh\u00f4ng khai b\u1ea3o t\u1eeb kh\u00f3a n\u00e0o c\u1ea3 th\u00ec SQL m\u1eb7c \u0111\u1ecbnh l\u00e0 t\u1eeb kh\u00f3a ALL.\nQuery 8a: Cho bi\u1ebft th\u00f4ng tin l\u01b0\u01a1ng c\u1ee7a gi\u00e1o vi\u00ean (y\u00eau c\u1ea7u lo\u1ea1i b\u1ecf gi\u1ea3 tr\u1ecb tr\u00f9ng\nQ8a: SELECT DISTINCT L\u01af\u01a0NG\nFROM GI\u00c1O VI\u00caN\nQuery 8b Cho bi\u1ebft th\u00f4ng tin l\u01b0\u01a1ng c\u1ee7a 1 gi\u00e1o vi\u00ean (y\u00eau c\u1ea7u kh\u00f4ng lo\u1ea1i b\u1ecf gi\u00e1 tr\u1ecb tr\u00f9ng).\nQ8b: SELECT ALL L\u01af\u01a0NG\nFROM GI\u00c1OVI\u00caN\n"
+    },
+    {
+      "user": "join l\u00e0 g\u00ec",
+      "bot": "\u0110\u1ecaNH NGH\u0128A: L\u01b0u tr\u1eef th\u1ed1ng nh\u1ea5t, tr\u00e1nh \u0111\u01b0\u1ee3c th\u00f4ng tin tr\u00f9ng l\u1eb7p.\nC\u01a1 ch\u1ebf \u0111i\u1ec1u khi\u1ec3n truy xu\u1ea5t h\u1ee3p l\u00fd, tr\u00e1nh \u0111\u01b0\u1ee3c vi\u1ec7c tranh ch\u1ea5p d\u1eef li\u1ec7u v\u00e0 \u0111\u1ea3m b\u1ea3o d\u1eef li\u1ec7u lu\u00f4n \u0111\u00fang t\u1ea1i m\u1ecdi th\u1eddi \u0111i\u1ec3m."
+    },
+    {
+      "user": "SELECT PTTKGT, QUAMON, ROTMON",
+      "bot": "Ch\u00e0o b\u1ea1n, b\u1ea1n mu\u1ed1n t\u00ecm hi\u1ec3u v\u1ea5n \u0111\u1ec1 g\u00ec ?"
+    },
+    {
+      "user": "TRUY V\u1ea4N T\u1ea4T C\u1ea2 KI\u1ebeN TH\u1ee8C",
+      "bot": "Ch\u00e0o b\u1ea1n, b\u1ea1n mu\u1ed1n t\u00ecm hi\u1ec3u v\u1ea5n \u0111\u1ec1 g\u00ec ?"
+    },
+    {
+      "user": "TAO MU\u1ed0N H\u1eceI H\u1ebeT",
+      "bot": "L\u1ec7nh CREATE DOMAIN \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 l\u1ec7nh t\u1ea1o mi\u1ec1n gi\u00e1 tr\u1ecb. L\u1ec7nh n\u00e0y \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 t\u1ea1o ra m\u1ed9t ki\u1ec3u d\u1eef li\u1ec7u m\u1edbi s\u1eed d\u1ee5ng nh\u1eefng ki\u1ec3u d\u1eef li\u1ec7u c\u00f3 s\u1eb5n.\n\nC\u00fa ph\u00e1p:\nCREATE DOMAIN <T\u00ean_kdl_m\u1edbi> AS <Ki\u1ec3u_d\u1eef_li\u1ec7u>\nV\u00ed d\u1ee5:\nCREATE DOMAIN KI\u1ec2U_CHU\u1ed6I AS VARCHAR(30)"
+    },
+    {
+      "user": "TI\u1ebeP \u0110I",
+      "bot": "Bye bye"
+    },
+    {
+      "user": "TAO K\u00caU TI\u1ebeP",
+      "bot": "T\u1ea1m bi\u1ec7t b\u1ea1n"
+    },
+    {
+      "user": "TAO K\u00caU TR\u1ea2 L\u1edcI TI\u1ebeP CH\u1ee8 HONG PH\u1ea2I BYE BYE",
+      "bot": "Bye bye"
+    },
+    {
+      "user": "BYE BYE M\u00c3 CHA M\u00c0Y",
+      "bot": "Bye bye"
+    },
+    {
+      "user": "D\u1ea0 EM XIN L\u1ed6I",
+      "bot": "Xin ch\u00e0o, t\u00f4i c\u00f3 th\u1ec3 gi\u00fap g\u00ec cho b\u1ea1n ?"
+    },
+    {
+      "user": "T\u00d3M T\u1eaeT C\u00c1C C\u00c2U L\u1ec6NH TH\u01af\u1edcNG G\u1eb6P",
+      "bot": "Bye bye"
+    },
+    {
+      "user": "KH\u00d3A NGO\u1ea0I L\u00c0 G\u00cc",
+      "bot": "Kh\u00f3a ngo\u1ea1i (Foreign Key) l\u00e0 m\u1ed9t kh\u00e1i ni\u1ec7m quan tr\u1ecdng trong c\u01a1 s\u1edf d\u1eef li\u1ec7u, \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng \u0111\u1ec3 thi\u1ebft l\u1eadp m\u1ed1i quan h\u1ec7 gi\u1eefa hai b\u1ea3ng. M\u1ed9t kh\u00f3a ngo\u1ea1i l\u00e0 m\u1ed9t ho\u1eb7c m\u1ed9t t\u1eadp h\u1ee3p c\u00e1c c\u1ed9t trong m\u1ed9t b\u1ea3ng, ch\u00fang tham chi\u1ebfu \u0111\u1ebfn kh\u00f3a ch\u00ednh ho\u1eb7c si\u00eau kh\u00f3a c\u1ee7a b\u1ea3ng kh\u00e1c. Kh\u00f3a ngo\u1ea1i gi\u00fap x\u00e1c \u0111\u1ecbnh m\u1ed1i quan h\u1ec7 gi\u1eefa c\u00e1c b\u1ea3ng v\u00e0 th\u01b0\u1eddng \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng \u0111\u1ec3 duy tr\u00ec t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu."
+    },
+    {
+      "user": "C\u00d3 KH\u00d3A NGO\u1ea0I V\u1eacY C\u00d3 KH\u00d3A N\u1ed8I KH\u00d4NG",
+      "bot": "Xin l\u1ed7i t\u00f4i s\u1ebd c\u1ed1 g\u1eafng th\u00eam"
+    },
+    {
+      "user": "KH\u00d3A N\u1ed8I L\u00c0 G\u00cc",
+      "bot": "M\u1ed9t r\u00e0ng bu\u1ed9c quan tr\u1ecdng gi\u1eefa c\u00e1c th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 l\u00e0 kh\u00f4ng c\u00f3 hai th\u1ef1c th\u1ec3 n\u00e0o c\u00f3 gi\u00e1 tr\u1ecb gi\u1ed1ng nhau ho\u00e0n to\u00e0n. Ta ph\u1ea3i c\u00f3 c\u00e1ch ch\u1ec9 \u0111\u1ecbnh r\u00f5 c\u00e1c th\u1ef1c th\u1ec3 \u0111\u01b0\u1ee3c ph\u00e2n bi\u1ec7t v\u1edbi nhau trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 \u1edf m\u1ee9c quan ni\u1ec7m. C\u00e1ch ch\u1ec9 \u0111\u1ecbnh n\u00e0y th\u00f4ng th\u01b0\u1eddng \u0111\u01b0\u1ee3c ch\u1ec9 \u0111\u1ecbnh b\u1edfi r\u00e0ng bu\u1ed9c v\u1ec1 kh\u00f3a. \nKh\u00f3a l\u00e0 m\u1ed9t t\u1eadp \u00edt nh\u1ea5t c\u00e1c thu\u1ed9c t\u00ednh gi\u00fap ta x\u00e1c \u0111\u1ecbnh duy nh\u1ea5t m\u1ed9t th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3. Kh\u00f3a c\u0169ng gi\u00fap ch\u00fang ta x\u00e1c \u0111\u1ecbnh m\u1ed1i k\u1ebft h\u1ee3p l\u00e0 duy nh\u1ea5t trong m\u1ed9t t\u1eadp m\u1ed1i k\u1ebft h\u1ee3p.\nKh\u00f3a c\u1ee7a th\u1ef1c th\u1ec3 g\u1ed3m m\u1ed9t ho\u1eb7c nhi\u1ec1u thu\u1ed9c t\u00ednh. C\u00e1c thu\u1ed9c t\u00ednh tham gia v\u00e0o khoa \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 c\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a. C\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a \u0111\u01b0\u1ee3c k\u00fd hi\u1ec7u b\u1eb1ng c\u00e1ch g\u1ea1ch ch\u00e2n d\u01b0\u1edbi t\u00ean thu\u1ed9c t\u00ednh.\nV\u00ed d\u1ee5 minh h\u1ecda:\n\\images\\2_19.png"
+    },
+    {
+      "user": "KH\u00d3A N\u1ed8I L\u00c0 G\u00cc",
+      "bot": "M\u1ed9t r\u00e0ng bu\u1ed9c quan tr\u1ecdng gi\u1eefa c\u00e1c th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 l\u00e0 kh\u00f4ng c\u00f3 hai th\u1ef1c th\u1ec3 n\u00e0o c\u00f3 gi\u00e1 tr\u1ecb gi\u1ed1ng nhau ho\u00e0n to\u00e0n. Ta ph\u1ea3i c\u00f3 c\u00e1ch ch\u1ec9 \u0111\u1ecbnh r\u00f5 c\u00e1c th\u1ef1c th\u1ec3 \u0111\u01b0\u1ee3c ph\u00e2n bi\u1ec7t v\u1edbi nhau trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 \u1edf m\u1ee9c quan ni\u1ec7m. C\u00e1ch ch\u1ec9 \u0111\u1ecbnh n\u00e0y th\u00f4ng th\u01b0\u1eddng \u0111\u01b0\u1ee3c ch\u1ec9 \u0111\u1ecbnh b\u1edfi r\u00e0ng bu\u1ed9c v\u1ec1 kh\u00f3a. \nKh\u00f3a l\u00e0 m\u1ed9t t\u1eadp \u00edt nh\u1ea5t c\u00e1c thu\u1ed9c t\u00ednh gi\u00fap ta x\u00e1c \u0111\u1ecbnh duy nh\u1ea5t m\u1ed9t th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3. Kh\u00f3a c\u0169ng gi\u00fap ch\u00fang ta x\u00e1c \u0111\u1ecbnh m\u1ed1i k\u1ebft h\u1ee3p l\u00e0 duy nh\u1ea5t trong m\u1ed9t t\u1eadp m\u1ed1i k\u1ebft h\u1ee3p.\nKh\u00f3a c\u1ee7a th\u1ef1c th\u1ec3 g\u1ed3m m\u1ed9t ho\u1eb7c nhi\u1ec1u thu\u1ed9c t\u00ednh. C\u00e1c thu\u1ed9c t\u00ednh tham gia v\u00e0o khoa \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 c\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a. C\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a \u0111\u01b0\u1ee3c k\u00fd hi\u1ec7u b\u1eb1ng c\u00e1ch g\u1ea1ch ch\u00e2n d\u01b0\u1edbi t\u00ean thu\u1ed9c t\u00ednh.\nV\u00ed d\u1ee5 minh h\u1ecda:\n\\images\\2_19.png"
+    },
+    {
+      "user": "KH\u00d3A N\u1ed8I L\u00c0 G\u00cc",
+      "bot": "M\u1ed9t r\u00e0ng bu\u1ed9c quan tr\u1ecdng gi\u1eefa c\u00e1c th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 l\u00e0 kh\u00f4ng c\u00f3 hai th\u1ef1c th\u1ec3 n\u00e0o c\u00f3 gi\u00e1 tr\u1ecb gi\u1ed1ng nhau ho\u00e0n to\u00e0n. Ta ph\u1ea3i c\u00f3 c\u00e1ch ch\u1ec9 \u0111\u1ecbnh r\u00f5 c\u00e1c th\u1ef1c th\u1ec3 \u0111\u01b0\u1ee3c ph\u00e2n bi\u1ec7t v\u1edbi nhau trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 \u1edf m\u1ee9c quan ni\u1ec7m. C\u00e1ch ch\u1ec9 \u0111\u1ecbnh n\u00e0y th\u00f4ng th\u01b0\u1eddng \u0111\u01b0\u1ee3c ch\u1ec9 \u0111\u1ecbnh b\u1edfi r\u00e0ng bu\u1ed9c v\u1ec1 kh\u00f3a. \nKh\u00f3a l\u00e0 m\u1ed9t t\u1eadp \u00edt nh\u1ea5t c\u00e1c thu\u1ed9c t\u00ednh gi\u00fap ta x\u00e1c \u0111\u1ecbnh duy nh\u1ea5t m\u1ed9t th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3. Kh\u00f3a c\u0169ng gi\u00fap ch\u00fang ta x\u00e1c \u0111\u1ecbnh m\u1ed1i k\u1ebft h\u1ee3p l\u00e0 duy nh\u1ea5t trong m\u1ed9t t\u1eadp m\u1ed1i k\u1ebft h\u1ee3p.\nKh\u00f3a c\u1ee7a th\u1ef1c th\u1ec3 g\u1ed3m m\u1ed9t ho\u1eb7c nhi\u1ec1u thu\u1ed9c t\u00ednh. C\u00e1c thu\u1ed9c t\u00ednh tham gia v\u00e0o khoa \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 c\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a. C\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a \u0111\u01b0\u1ee3c k\u00fd hi\u1ec7u b\u1eb1ng c\u00e1ch g\u1ea1ch ch\u00e2n d\u01b0\u1edbi t\u00ean thu\u1ed9c t\u00ednh.\nV\u00ed d\u1ee5 minh h\u1ecda:\n\\images\\2_19.png"
+    },
+    {
+      "user": "GI\u1ea2 B\u1ed8 HI\u1ec2U \u0110I",
+      "bot": "\u0110\u1ecaNH NGH\u0128A: L\u01b0u tr\u1eef th\u1ed1ng nh\u1ea5t, tr\u00e1nh \u0111\u01b0\u1ee3c th\u00f4ng tin tr\u00f9ng l\u1eb7p.\nC\u01a1 ch\u1ebf \u0111i\u1ec1u khi\u1ec3n truy xu\u1ea5t h\u1ee3p l\u00fd, tr\u00e1nh \u0111\u01b0\u1ee3c vi\u1ec7c tranh ch\u1ea5p d\u1eef li\u1ec7u v\u00e0 \u0111\u1ea3m b\u1ea3o d\u1eef li\u1ec7u lu\u00f4n \u0111\u00fang t\u1ea1i m\u1ecdi th\u1eddi \u0111i\u1ec3m."
+    },
+    {
+      "user": "C\u00d3 \u0110ANG \u1ed4N HONG V\u1eacY B\u1ea0N UI",
+      "bot": "H\u1eb9n b\u1ea1n l\u1ea7n sau"
+    },
+    {
+      "user": "\u0110\u00c9O",
+      "bot": "Hello, r\u1ea5t vui l\u00f2ng \u0111\u01b0\u1ee3c gi\u00fap b\u1ea1n"
+    },
+    {
+      "user": "KH\u00d3A NGO\u00c0I L\u00c0 G\u00cc",
+      "bot": "M\u1ed9t r\u00e0ng bu\u1ed9c quan tr\u1ecdng gi\u1eefa c\u00e1c th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 l\u00e0 kh\u00f4ng c\u00f3 hai th\u1ef1c th\u1ec3 n\u00e0o c\u00f3 gi\u00e1 tr\u1ecb gi\u1ed1ng nhau ho\u00e0n to\u00e0n. Ta ph\u1ea3i c\u00f3 c\u00e1ch ch\u1ec9 \u0111\u1ecbnh r\u00f5 c\u00e1c th\u1ef1c th\u1ec3 \u0111\u01b0\u1ee3c ph\u00e2n bi\u1ec7t v\u1edbi nhau trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 \u1edf m\u1ee9c quan ni\u1ec7m. C\u00e1ch ch\u1ec9 \u0111\u1ecbnh n\u00e0y th\u00f4ng th\u01b0\u1eddng \u0111\u01b0\u1ee3c ch\u1ec9 \u0111\u1ecbnh b\u1edfi r\u00e0ng bu\u1ed9c v\u1ec1 kh\u00f3a. \nKh\u00f3a l\u00e0 m\u1ed9t t\u1eadp \u00edt nh\u1ea5t c\u00e1c thu\u1ed9c t\u00ednh gi\u00fap ta x\u00e1c \u0111\u1ecbnh duy nh\u1ea5t m\u1ed9t th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3. Kh\u00f3a c\u0169ng gi\u00fap ch\u00fang ta x\u00e1c \u0111\u1ecbnh m\u1ed1i k\u1ebft h\u1ee3p l\u00e0 duy nh\u1ea5t trong m\u1ed9t t\u1eadp m\u1ed1i k\u1ebft h\u1ee3p.\nKh\u00f3a c\u1ee7a th\u1ef1c th\u1ec3 g\u1ed3m m\u1ed9t ho\u1eb7c nhi\u1ec1u thu\u1ed9c t\u00ednh. C\u00e1c thu\u1ed9c t\u00ednh tham gia v\u00e0o khoa \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 c\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a. C\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a \u0111\u01b0\u1ee3c k\u00fd hi\u1ec7u b\u1eb1ng c\u00e1ch g\u1ea1ch ch\u00e2n d\u01b0\u1edbi t\u00ean thu\u1ed9c t\u00ednh.\nV\u00ed d\u1ee5 minh h\u1ecda:\n\\images\\2_19.png"
+    },
+    {
+      "user": "KH\u00d3A TRONG L\u00c0 G\u00cc",
+      "bot": "Trong ph\u1ea7n n\u00e0y ch\u00fang t\u00f4i s\u1ebd tr\u00ecnh b\u00e0y m\u1ed9t s\u1ed1 r\u00e0ng bu\u1ed9c c\u01a1 b\u1ea3n c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c khai b\u00e1o trong ph\u1ea1m vi c\u1ee7a l\u1ec7nh CREATE TABLE. Nh\u1eefng r\u1eb1ng bu\u1ed9c n\u00e0y bao g\u1ed3m: r\u00e0ng bu\u1ed9c kh\u00f3a ch\u00ednh, r\u00e0ng bu\u1ed9c tham chi\u1ebfu, r\u1eb1ng bu\u1ed9c tr\u00ean c\u1ed9t v\u00e0 r\u00e0ng bu\u1ed9c tr\u00ean c\u00e1c b\u1ed9 trong ph\u1ea1m vi m\u1ed9t b\u1eb1ng."
+    },
+    {
+      "user": "KH\u00d3A CH\u00cdNH L\u00c0 G\u00cc",
+      "bot": "Kh\u00f3a ch\u00ednh (Primary key) l\u00e0 m\u1ed9t t\u1eadp h\u1ee3p c\u1ee7a m\u1ed9t ho\u1eb7c nhi\u1ec1u tr\u01b0\u1eddng / c\u1ed9t c\u1ee7a m\u1ed9t b\u1ea3ng duy nh\u1ea5t x\u00e1c \u0111\u1ecbnh m\u1ed9t b\u1ea3n ghi trong b\u1ea3ng c\u01a1 s\u1edf d\u1eef li\u1ec7u.\u00a0N\u00f3 kh\u00f4ng th\u1ec3 ch\u1ea5p nh\u1eadn null, gi\u00e1 tr\u1ecb nh\u00e2n b\u1ea3n.\u00a0Ch\u1ec9 c\u00f3 m\u1ed9t kh\u00f3a d\u1ef1 tuy\u1ec3n c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c kh\u00f3a ch\u00ednh."
+    },
+    {
+      "user": "KH\u00d3A PH\u1ee4 L\u00c0 G\u00cc",
+      "bot": "M\u1ed9t r\u00e0ng bu\u1ed9c quan tr\u1ecdng gi\u1eefa c\u00e1c th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 l\u00e0 kh\u00f4ng c\u00f3 hai th\u1ef1c th\u1ec3 n\u00e0o c\u00f3 gi\u00e1 tr\u1ecb gi\u1ed1ng nhau ho\u00e0n to\u00e0n. Ta ph\u1ea3i c\u00f3 c\u00e1ch ch\u1ec9 \u0111\u1ecbnh r\u00f5 c\u00e1c th\u1ef1c th\u1ec3 \u0111\u01b0\u1ee3c ph\u00e2n bi\u1ec7t v\u1edbi nhau trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 \u1edf m\u1ee9c quan ni\u1ec7m. C\u00e1ch ch\u1ec9 \u0111\u1ecbnh n\u00e0y th\u00f4ng th\u01b0\u1eddng \u0111\u01b0\u1ee3c ch\u1ec9 \u0111\u1ecbnh b\u1edfi r\u00e0ng bu\u1ed9c v\u1ec1 kh\u00f3a. \nKh\u00f3a l\u00e0 m\u1ed9t t\u1eadp \u00edt nh\u1ea5t c\u00e1c thu\u1ed9c t\u00ednh gi\u00fap ta x\u00e1c \u0111\u1ecbnh duy nh\u1ea5t m\u1ed9t th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3. Kh\u00f3a c\u0169ng gi\u00fap ch\u00fang ta x\u00e1c \u0111\u1ecbnh m\u1ed1i k\u1ebft h\u1ee3p l\u00e0 duy nh\u1ea5t trong m\u1ed9t t\u1eadp m\u1ed1i k\u1ebft h\u1ee3p.\nKh\u00f3a c\u1ee7a th\u1ef1c th\u1ec3 g\u1ed3m m\u1ed9t ho\u1eb7c nhi\u1ec1u thu\u1ed9c t\u00ednh. C\u00e1c thu\u1ed9c t\u00ednh tham gia v\u00e0o khoa \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 c\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a. C\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a \u0111\u01b0\u1ee3c k\u00fd hi\u1ec7u b\u1eb1ng c\u00e1ch g\u1ea1ch ch\u00e2n d\u01b0\u1edbi t\u00ean thu\u1ed9c t\u00ednh.\nV\u00ed d\u1ee5 minh h\u1ecda:\n\\images\\2_19.png"
+    },
+    {
+      "user": "KH\u00d3A T\u1ea0M B\u1ee2 L\u00c0 G\u00cc",
+      "bot": "M\u1ed9t r\u00e0ng bu\u1ed9c quan tr\u1ecdng gi\u1eefa c\u00e1c th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 l\u00e0 kh\u00f4ng c\u00f3 hai th\u1ef1c th\u1ec3 n\u00e0o c\u00f3 gi\u00e1 tr\u1ecb gi\u1ed1ng nhau ho\u00e0n to\u00e0n. Ta ph\u1ea3i c\u00f3 c\u00e1ch ch\u1ec9 \u0111\u1ecbnh r\u00f5 c\u00e1c th\u1ef1c th\u1ec3 \u0111\u01b0\u1ee3c ph\u00e2n bi\u1ec7t v\u1edbi nhau trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3 \u1edf m\u1ee9c quan ni\u1ec7m. C\u00e1ch ch\u1ec9 \u0111\u1ecbnh n\u00e0y th\u00f4ng th\u01b0\u1eddng \u0111\u01b0\u1ee3c ch\u1ec9 \u0111\u1ecbnh b\u1edfi r\u00e0ng bu\u1ed9c v\u1ec1 kh\u00f3a. \nKh\u00f3a l\u00e0 m\u1ed9t t\u1eadp \u00edt nh\u1ea5t c\u00e1c thu\u1ed9c t\u00ednh gi\u00fap ta x\u00e1c \u0111\u1ecbnh duy nh\u1ea5t m\u1ed9t th\u1ef1c th\u1ec3 trong m\u1ed9t t\u1eadp th\u1ef1c th\u1ec3. Kh\u00f3a c\u0169ng gi\u00fap ch\u00fang ta x\u00e1c \u0111\u1ecbnh m\u1ed1i k\u1ebft h\u1ee3p l\u00e0 duy nh\u1ea5t trong m\u1ed9t t\u1eadp m\u1ed1i k\u1ebft h\u1ee3p.\nKh\u00f3a c\u1ee7a th\u1ef1c th\u1ec3 g\u1ed3m m\u1ed9t ho\u1eb7c nhi\u1ec1u thu\u1ed9c t\u00ednh. C\u00e1c thu\u1ed9c t\u00ednh tham gia v\u00e0o khoa \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 c\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a. C\u00e1c thu\u1ed9c t\u00ednh kh\u00f3a \u0111\u01b0\u1ee3c k\u00fd hi\u1ec7u b\u1eb1ng c\u00e1ch g\u1ea1ch ch\u00e2n d\u01b0\u1edbi t\u00ean thu\u1ed9c t\u00ednh.\nV\u00ed d\u1ee5 minh h\u1ecda:\n\\images\\2_19.png"
+    },
+    {
+      "user": "C\u00d3 KH\u00d3A TRAP KH\u00d4NG",
+      "bot": "Xin l\u1ed7i t\u00f4i s\u1ebd c\u1ed1 g\u1eafng th\u00eam"
+    },
+    {
+      "user": "HAHAHA",
+      "bot": "Ch\u00e0o b\u1ea1n, b\u1ea1n mu\u1ed1n t\u00ecm hi\u1ec3u v\u1ea5n \u0111\u1ec1 g\u00ec ?"
+    },
+    {
+      "user": "BLA BLA BLA",
+      "bot": "Hello, r\u1ea5t vui l\u00f2ng \u0111\u01b0\u1ee3c gi\u00fap b\u1ea1n"
+    },
+    {
+      "user": "BYA NHA",
+      "bot": "Ch\u00e0o b\u1ea1n, b\u1ea1n mu\u1ed1n t\u00ecm hi\u1ec3u v\u1ea5n \u0111\u1ec1 g\u00ec ?"
+    },
+    {
+      "user": "BYE NHA",
+      "bot": "Bye bye"
+    },
+    {
+      "user": "HONG BYE",
+      "bot": "Hello, r\u1ea5t vui l\u00f2ng \u0111\u01b0\u1ee3c gi\u00fap b\u1ea1n"
+    },
+    {
+      "user": "BYE TI\u1ebeP \u0110I",
+      "bot": "Bye bye"
+    },
+    {
+      "user": "\u0110\u1eeaNG BYE N\u1eeeA",
+      "bot": "T\u1ea1m bi\u1ec7t b\u1ea1n"
+    }
+  ]
+}
