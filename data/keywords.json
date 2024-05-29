@@ -1,0 +1,1014 @@
+{
+   "intents": [
+       {
+           "tag": "dữ_liệu",
+           "patterns": [
+               "dữ liệu",
+               "du lieu",
+               "data"
+           ]
+       },
+       {
+           "tag": "thông_tin",
+           "patterns": [
+               "thông tin",
+               "thong tin",
+               "info",
+               "information"
+           ]
+       },
+       {
+           "tag": "cơ_sở_dữ_liệu",
+           "patterns": [
+               "cơ sở dữ liệu",
+               "co so du lieu",
+               "database",
+               "csdl"
+           ]
+       },
+       {
+           "tag": "hệ_quản_trị_cơ_sở_dữ_liệu",
+           "patterns": [
+               "hệ quản trị cơ sở dữ liệu",
+               "he quan tri co so du lieu",
+               "hệ quản trị csdl"
+           ]
+       },
+       {
+           "tag": "hệ_cơ_sở_dữ_liệu",
+           "patterns": [
+               "hệ cơ sở dữ liệu",
+               "he co so du lieu",
+               "hệ csdl"
+           ]
+       },
+       {
+           "tag": "đa_khung_nhìn",
+           "patterns": [
+               "đa khung nhìn",
+               "đa khung nhin"
+           ]
+       },
+       {
+           "tag": "quản_trị_viên",
+           "patterns": [
+               "quản trị viên",
+               "quan tri vien"
+           ]
+       },
+       {
+           "tag": "thiết_kế_viên",
+           "patterns": [
+               "thiết kế viên",
+               "thiet ke vien"
+           ]
+       },
+       {
+           "tag": "người_dùng_cuối",
+           "patterns": [
+               "người dùng cuối",
+               "nguoi dung cuoi"
+           ]
+       },
+       {
+           "tag": "kiến_trúc_ba_lược_đồ",
+           "patterns": [
+               "kiến trúc ba lược đồ",
+               "kien truc ba luoc đo",
+               "kiến trúc 3 lược đồ"
+           ]
+       },
+       {
+           "tag": "các_ngôn_ngữ_của_hệ_quản_trị_cơ_sở_dữ_liệu",
+           "patterns": [
+               "các ngôn ngữ hệ quản trị cơ sở dữ liệu",
+               "các ngôn ngữ hệ quản trị cơ sở dữ liệu",
+               "cac ngon ngu cua he quan tri co so du lieu",
+               "các ngôn ngữ hệ quản trị csdl",
+               "các ngôn ngữ hệ quản trị csdl",
+               "các loại ngôn ngữ csdl"
+           ]
+       },
+       {
+           "tag": "các_giao_tiếp_của_hệ_quản_trị_cơ_sở_dữ_liệu",
+           "patterns": [
+               "các giao tiếp hệ quản trị cơ sở dữ liệu",
+               "cac giao tiep he quan tri co so du lieu"
+           ]
+       },
+       {
+           "tag": "mô_hình_dữ_liệu",
+           "patterns": [
+               "mô hình dữ liệu",
+               "mo hinh du lieu"
+           ]
+       },
+       {
+           "tag": "các_loại_mô_hình_dữ_liệu",
+           "patterns": [
+               "các loại mô hình dữ liệu",
+               "cac loai mo hinh du lieu"
+           ]
+       },
+       {
+           "tag": "mô_hình_thực_thể_mối_kết_hợp",
+           "patterns": [
+               "mô hình thực thể mối kết hợp",
+               "mo hinh thuc the moi ket hop",
+               "erd",
+               "ERD",
+               "entity relationship diagram",
+               "sơ đồ mối quan hệ thực thể"
+           ]
+       },
+       {
+           "tag": "mô_hình_quan_hệ",
+           "patterns": [
+               "mô hình quan hệ",
+               "mo hinh quan he"
+           ]
+       },
+       {
+           "tag": "mô_hình_dữ_liệu_mạng",
+           "patterns": [
+               "mô hình dữ liệu mạng",
+               "mo hinh du lieu mang"
+           ]
+       },
+       {
+           "tag": "mô_hình_hướng_đối_tượng",
+           "patterns": [
+               "mô hình hướng đối tượng",
+               "mo hinh huong đoi tuong"
+           ]
+       },
+       {
+           "tag": "mô_hình_phân_cấp",
+           "patterns": [
+               "mô hình phân cấp",
+               "mo hinh phan cap"
+           ]
+       },
+       {
+           "tag": "thực_thể",
+           "patterns": [
+               "thực thể",
+               "thuc the",
+               "entity",
+               "Entity"
+           ]
+       },
+       {
+           "tag": "thuộc_tính",
+           "patterns": [
+               "thuộc tính",
+               "thuoc tinh",
+               "attribute"
+           ]
+       },
+       {
+           "tag": "loại_thuộc_tính",
+           "patterns": [
+               "loại thuộc tính",
+               "loai thuoc tinh"
+           ]
+       },
+       {
+           "tag": "thuộc_tính_kết_hợp",
+           "patterns": [
+               "thuộc tính kết hợp",
+               "thuoc tinh ket hop"
+           ]
+       },
+       {
+           "tag": "thuộc_tính_đơn_trị",
+           "patterns": [
+               "thuộc tính đơn trị",
+               "thuoc tinh đon tri"
+           ]
+       },
+       {
+           "tag": "thuộc_tính_đa_trị",
+           "patterns": [
+               "thuộc tính đa trị",
+               "thuoc tinh đa tri"
+           ]
+       },
+       {
+           "tag": "thuộc_tính_suy_diễn",
+           "patterns": [
+               "thuộc tính suy diễn",
+               "thuoc tinh suy dien"
+           ]
+       },
+       {
+           "tag": "mối_kết_hợp",
+           "patterns": [
+               "mối kết hợp",
+               "moi ket hop"
+           ]
+       },
+       {
+           "tag": "tập_mối_kết_hợp_phản_thân",
+           "patterns": [
+               "tập mối kết hợp phản thân",
+               "tap moi ket hop phan than"
+           ]
+       },
+       {
+           "tag": "phân_loại_tập_mối_kết_hợp",
+           "patterns": [
+               "phân loại tập mối kết hợp",
+               "phan loai tap moi ket hop"
+           ]
+       },
+       {
+           "tag": "tập_mối_kết_hợp_một_một",
+           "patterns": [
+                "một một",
+                "một-một",
+                "1-1",
+                "1 1",
+               "tập mối kết hợp một - một",
+               "tap moi ket hop mot - mot",
+               "tập mối kết hợp một một",
+               "tập mối kết hợp 1 - 1",
+               "tập mối kết hợp 1 1",
+               "một - một",
+               "1 - 1"
+           ]
+       },
+       {
+           "tag": "tập_mối_kết_hợp_một_nhiều",
+           "patterns": [
+                "một-nhiều",
+                "một nhiều",
+                "1-n",
+                "1 n",
+                "quan hệ một - nhiều",
+                "quan hệ 1 - n",
+               "tập mối kết hợp một - nhiều",
+               "tap moi ket hop mot - nhieu",
+               "tập mối kết hợp một nhiều",
+               "tập mối kết hợp 1 - n",
+               "tập mối kết hợp 1 n",
+               "một - nhiều",
+               "1 n",
+               "1 - n"
+           ]
+       },
+       {
+           "tag": "tập_mối_kết_hợp_nhiều_một",
+           "patterns": [
+                "nhiều một",
+                "nhiều-một",
+                "n-1",
+                "n 1",
+               "tập mối kết hợp nhiều - một",
+               "tap moi ket hop nhieu - mot",
+               "tập mối kết hợp nhiều một",
+               "tập mối kết hợp n - 1",
+               "tập mối kết hợp n 1",
+               "quan hệ nhiều - một",
+               "nhiều - một",
+               "n 1",
+               "n - 1"
+           ]
+       },
+       {
+           "tag": "tập_mối_kết_hợp_nhiều_nhiều",
+           "patterns": [
+                "nhiều nhiều",
+                "nhiều-nhiều",
+                "n-n",
+                "n-m",
+                "n n",
+                "n m",
+               "tập mối kết hợp nhiều - nhiều",
+               "tap moi ket hop nhieu - nhieu",
+               "tập mối kết hợp nhiều nhiều",
+               "tập mối kết hợp n - n",
+               "tập mối kết hợp n n",
+               "nhiều - nhiều",
+               "n n",
+               "n - n"
+           ]
+       },
+       {
+           "tag": "bản_số",
+           "patterns": [
+               "bản số",
+               "ban so"
+           ]
+       },
+       {
+           "tag": "thuộc_tính_trên_tập_mối_kết_hợp",
+           "patterns": [
+               "thuộc tính trên tập mối kết hợp",
+               "thuoc tinh tren tap moi ket hop"
+           ]
+       },
+       {
+           "tag": "tên_vai_trò",
+           "patterns": [
+               "tên vai trò",
+               "ten vai tro"
+           ]
+       },
+       {
+           "tag": "khóa_của_tập_thực_thể",
+           "patterns": [
+               "khóa",
+               "Khóa",
+               "khóa của tập thực thể",
+               "khoa cua tap thuc the",
+               "key",
+               "khoa"
+           ]
+       },
+       {
+           "tag": "tập_thực_thể_yếu",
+           "patterns": [
+               "tập thực thể yếu",
+               "tap thuc the yeu"
+           ]
+       },
+       {
+           "tag": "mô_hình_thực_thể_kết_hợp",
+           "patterns": [
+               "mô hình thực thể kết hợp",
+               "mo hinh thuc the ket hop"
+           ]
+       },
+       {
+           "tag": "kết_luận_chương_2",
+           "patterns": [
+               "kết luận chương 2",
+               "ket luan chuong 2",
+               "chương 2"
+           ]
+       },
+       {
+           "tag": "mô_hình_dữ_liệu_quan_hệ",
+           "patterns": [
+               "mô hình dữ liệu quan hệ",
+               "mo hinh du lieu quan he"
+           ]
+       },
+       {
+           "tag": "mối_quan_hệ",
+           "patterns": [
+               "mối quan hệ",
+               "moi quan he",
+               "relationship",
+               "relation"
+           ]
+       },
+       {
+           "tag": "các_loại_khóa",
+           "patterns": [
+               "các loại khóa",
+               "cac loai khoa",
+               "cac dang khoa"
+           ]
+       },
+       {
+           "tag": "siêu_khóa",
+           "patterns": [
+               "siêu khóa",
+               "sieu khoa"
+           ]
+       },
+       {
+           "tag": "khóa_chính",
+           "patterns": [
+               "khóa chính",
+               "khoa chinh"
+           ]
+       },
+       {
+           "tag": "khóa_dự_tuyển",
+           "patterns": [
+               "khóa dự tuyển",
+               "khoa du tuyen"
+           ]
+       },
+       {
+           "tag": "khóa_ngoại",
+           "patterns": [
+               "khóa ngoại",
+               "khoa ngoai",
+               "ngoại"
+           ]
+       },
+       {
+           "tag": "tập_thực_thể_sang_quan_hệ",
+           "patterns": [
+               "tập thực thể sang quan hệ",
+               "tap thuc the sang quan he"
+           ]
+       },
+       {
+           "tag": "tập_mối_kết_hợp_2_ngôi_sang_quan_hệ",
+           "patterns": [
+               "tập mối kết hợp 2 ngôi sang quan hệ",
+               "tap moi ket hop 2 ngoi sang quan he"
+           ]
+       },
+       {
+           "tag": "tập_thực_thể_yếu_sang_quan_hệ",
+           "patterns": [
+               "tập thực thể yếu sang quan hệ",
+               "tap thuc the yeu sang quan he"
+           ]
+       },
+       {
+           "tag": "thuộc_tính_đa_trị",
+           "patterns": [
+               "thuộc tính đa trị",
+               "thuoc tinh đa tri"
+           ]
+       },
+       {
+           "tag": "phụ_thuộc_hàm",
+           "patterns": [
+               "phụ thuộc hàm",
+               "phu thuoc ham"
+           ]
+       },
+       {
+           "tag": "dạng_chuẩn_1",
+           "patterns": [
+               "dạng chuẩn 1",
+               "dang chuan 1"
+           ]
+       },
+       {
+           "tag": "dạng_chuẩn_2",
+           "patterns": [
+               "dạng chuẩn 2",
+               "dang chuan 2"
+           ]
+       },
+       {
+           "tag": "dạng_chuẩn_3",
+           "patterns": [
+               "dạng chuẩn 3",
+               "dang chuan 3"
+           ]
+       },
+       {
+           "tag": "dạng_chuẩn_bck(boyee_codd_kent)",
+           "patterns": [
+               "dạng chuẩn bck(boyee codd kent)",
+               "dang chuan bck(boyee codd kent)",
+               "boyee codd kent",
+               "dang chuan boyee codd kent"
+           ]
+       },
+       {
+           "tag": "đại_số_quan_hệ",
+           "patterns": [
+               "đại số quan hệ",
+               "đai so quan he"
+           ]
+       },
+       {
+           "tag": "phép_toán_đại_số_quan_hệ",
+           "patterns": [
+               "phép toán đại số quan hệ",
+               "phep toan đai so quan he"
+           ]
+       },
+       {
+           "tag": "tập_hợp_đầy_đủ",
+           "patterns": [
+               "tập hợp đầy đủ",
+               "tap hop đay đu"
+           ]
+       },
+       {
+           "tag": "tính_tổng_và_gom_nhóm",
+           "patterns": [
+               "tính tổng và gom nhóm",
+               "tinh tong va gom nhom"
+           ]
+       },
+       {
+           "tag": "kết_luận_chương_5",
+           "patterns": [
+               "kết luận chương 5",
+               "ket luan chuong 5"
+           ]
+       },
+       {
+           "tag": "ngôn_ngữ_sql",
+           "patterns": [
+               "ngôn ngữ sql",
+               "ngon ngu sql",
+               "sql"
+           ]
+       },
+       {
+           "tag": "lệnh_create",
+           "patterns": [
+               "lệnh create",
+               "lenh create",
+               "create"
+           ]
+       },
+       {
+           "tag": "tạo_bảng_create_table",
+           "patterns": [
+               "tạo bảng create table",
+               "tao bang create table",
+               "create table"
+           ]
+       },
+       {
+           "tag": "kiểu_dữ_liệu_sql",
+           "patterns": [
+               "kiểu dữ liệu sql",
+               "kieu du lieu sql"
+           ]
+       },
+       {
+           "tag": "tạo_miền_create_domain",
+           "patterns": [
+               "tạo miền create domain",
+               "tao mien create domain"
+           ]
+       },
+       {
+           "tag": "ràng_buộc_trong_sql",
+           "patterns": [
+               "ràng buộc trong sql",
+               "rang buoc trong sql"
+           ]
+       },
+       {
+           "tag": "ràng_buộc_thuộc_tính",
+           "patterns": [
+               "ràng buộc thuộc tính",
+               "rang buoc thuoc tinh"
+           ]
+       },
+       {
+           "tag": "ràng_buộc_khóa_chính_khóa_ngoại",
+           "patterns": [
+               "ràng buộc khóa chính khóa ngoại",
+               "rang buoc khoa chinh khoa ngoai"
+           ]
+       },
+       {
+           "tag": "đặt_tên_ràng_buộc",
+           "patterns": [
+               "đặt tên ràng buộc",
+               "đat ten rang buoc"
+           ]
+       },
+       {
+           "tag": "lệnh_cập_nhật",
+           "patterns": [
+               "lệnh cập nhật",
+               "lenh cap nhat"
+           ]
+       },
+       {
+           "tag": "lệnh_alter",
+           "patterns": [
+               "lệnh alter",
+               "lenh alter"
+           ]
+       },
+       {
+           "tag": "lệnh_drop",
+           "patterns": [
+               "lệnh drop",
+               "lenh drop"
+           ]
+       },
+       {
+           "tag": "truy_vấn_sql",
+           "patterns": [
+               "truy vấn sql",
+               "truy van sql"
+           ]
+       },
+       {
+           "tag": "select_from_where",
+           "patterns": [
+               "select from where",
+               "select from where",
+               "select",
+               "from",
+               "where"
+           ]
+       },
+       {
+           "tag": "thuộc_tính_trùng",
+           "patterns": [
+               "thuộc tính trùng",
+               "thuoc tinh trung"
+           ]
+       },
+       {
+           "tag": "select_không_sử_dụng_where",
+           "patterns": [
+               "select không sử dụng where",
+               "select khong su dung where"
+           ]
+       },
+       {
+           "tag": "order_by",
+           "patterns": [
+               "order by",
+               "order by",
+               "sắp xếp",
+               "sort"
+           ]
+       },
+       {
+           "tag": "phép_toán_tập_hợp",
+           "patterns": [
+               "phép toán tập hợp",
+               "phep toan tap hop"
+           ]
+       },
+       {
+           "tag": "truy_vấn_phức_tạp",
+           "patterns": [
+               "truy vấn phức tạp",
+               "truy van phuc tap"
+           ]
+       },
+       {
+           "tag": "giá_trị_null",
+           "patterns": [
+               "giá trị null",
+               "gia tri null"
+           ]
+       },
+       {
+           "tag": "truy_vấn_lồng",
+           "patterns": [
+               "truy vấn lồng",
+               "truy van long"
+           ]
+       },
+       {
+           "tag": "truy_vấn_lồng_phân_cấp",
+           "patterns": [
+               "truy vấn lồng phân cấp",
+               "truy van long phan cap"
+           ]
+       },
+       {
+           "tag": "truy_vấn_lồng_tương_quan",
+           "patterns": [
+               "truy vấn lồng tương quan",
+               "truy van long tuong quan"
+           ]
+       },
+       {
+           "tag": "hàm_tính_tổng_hợp",
+           "patterns": [
+               "hàm tính tổng hợp",
+               "ham tinh tong hop"
+           ]
+       },
+       {
+           "tag": "group_by_và_having",
+           "patterns": [
+               "group by và having",
+               "group by va having"
+           ]
+       },
+       {
+           "tag": "kết_luận_về_truy_vấn_trong_sql",
+           "patterns": [
+               "kết luận truy vấn trong sql",
+               "ket luan truy van trong sql"
+           ]
+       },
+       {
+           "tag": "các_lệnh_cập_nhật_dữ_liệu",
+           "patterns": [
+               "các lệnh cập nhật dữ liệu",
+               "cac lenh cap nhat du lieu"
+           ]
+       },
+       {
+           "tag": "lệnh_insert",
+           "patterns": [
+               "lệnh insert",
+               "lenh insert"
+           ]
+       },
+       {
+           "tag": "lệnh_delete",
+           "patterns": [
+               "lệnh delete",
+               "lenh delete"
+           ]
+       },
+       {
+           "tag": "lệnh_update",
+           "patterns": [
+               "lệnh update",
+               "lenh update"
+           ]
+       },
+       {
+           "tag": "kết_luận_chương_6",
+           "patterns": [
+               "kết luận chương 6",
+               "ket luan chuong 6"
+           ]
+       },
+       {
+           "tag": "phép_tính_quan_hệ",
+           "patterns": [
+               "phép tính quan hệ",
+               "phep tinh quan he"
+           ]
+       },
+       {
+           "tag": "biến_bộ_và_quan_hệ_miền",
+           "patterns": [
+               "biến bộ và quan hệ miền",
+               "bien bo va quan he mien"
+           ]
+       },
+       {
+           "tag": "biểu_thức_và_công_thức",
+           "patterns": [
+               "biểu thức và công thức",
+               "bieu thuc va cong thuc"
+           ]
+       },
+       {
+           "tag": "lượng_từ_với_mọi_và_tồn_tại",
+           "patterns": [
+               "lượng từ với mọi và tồn tại",
+               "luong tu voi moi va ton tai"
+           ]
+       },
+       {
+           "tag": "biến_tự_do_và_biến_kết_buộc",
+           "patterns": [
+               "biến tự do và biến kết buộc",
+               "bien tu do va bien ket buoc"
+           ]
+       },
+       {
+           "tag": "ví_dụ_phép_tính_quan_hệ_có_biến_là_bộ",
+           "patterns": [
+               "ví dụ phép tính quan hệ có biến là bộ",
+               "vi du phep tinh quan he co bien la bo"
+           ]
+       },
+       {
+           "tag": "biểu_thức_an_toàn",
+           "patterns": [
+               "biểu thức an toàn",
+               "bieu thuc an toan"
+           ]
+       },
+       {
+           "tag": "phép_tính_quan_hệ_có_biến_là_miền",
+           "patterns": [
+               "phép tính quan hệ có biến là miền",
+               "phep tinh quan he co bien la mien"
+           ]
+       },
+       {
+           "tag": "biểu_thức_phép_tính_quan_hệ_có_biến_là_miền",
+           "patterns": [
+               "biểu thức phép tính quan hệ có biến là miền",
+               "bieu thuc phep tinh quan he co bien la mien"
+           ]
+       },
+       {
+           "tag": "ví_dụ_phép_tính_quan_hệ_có_biến_là_miền",
+           "patterns": [
+               "ví dụ phép tính quan hệ có biến là miền",
+               "vi du phep tinh quan he co bien la mien"
+           ]
+       },
+       {
+           "tag": "kết_luận_chương_7",
+           "patterns": [
+               "kết luận chương 7",
+               "ket luan chuong 7"
+           ]
+       },
+       {
+           "tag": "ràng_buộc_toàn_vẹn",
+           "patterns": [
+               "ràng buộc toàn vẹn",
+               "rang buoc toan ven"
+           ]
+       },
+       {
+           "tag": "mục_đích_của_ràng_buộc_toàn_vẹn",
+           "patterns": [
+               "mục đích ràng buộc toàn vẹn",
+               "muc đich cua rang buoc toan ven"
+           ]
+       },
+       {
+           "tag": "đặc_trưng_nội_dung\nnội_dung_ràng_buộc_toàn_vẹn",
+           "patterns": [
+               "đặc trưng nội dung\nnội dung ràng buộc toàn vẹn",
+               "đac trung noi dung\nnoi dung rang buoc toan ven"
+           ]
+       },
+       {
+           "tag": "bối_cảnh_của_ràng_buộc_toàn_vẹn",
+           "patterns": [
+               "bối cảnh ràng buộc toàn vẹn",
+               "boi canh cua rang buoc toan ven"
+           ]
+       },
+       {
+           "tag": "tầm_ảnh_hưởng",
+           "patterns": [
+               "tầm ảnh hưởng",
+               "tam anh huong"
+           ]
+       },
+       {
+           "tag": "loại_ràng_buộc_toàn_vẹn",
+           "patterns": [
+               "loại ràng buộc toàn vẹn",
+               "loai rang buoc toan ven"
+           ]
+       },
+       {
+           "tag": "miền_giá_trị",
+           "patterns": [
+               "miền giá trị",
+               "mien gia tri"
+           ]
+       },
+       {
+           "tag": "ràng_buộc_toàn_vẹn_liên_bộ",
+           "patterns": [
+               "ràng buộc toàn vẹn liên bộ",
+               "rang buoc toan ven lien bo"
+           ]
+       },
+       {
+           "tag": "ràng_buộc_toàn_vẹn_liên_thuộc_tính",
+           "patterns": [
+               "ràng buộc toàn vẹn liên thuộc tính",
+               "rang buoc toan ven lien thuoc tinh"
+           ]
+       },
+       {
+           "tag": "ràng_buộc_toàn_vẹn_tham_chiếu",
+           "patterns": [
+               "ràng buộc toàn vẹn tham chiếu",
+               "rang buoc toan ven tham chieu"
+           ]
+       },
+       {
+           "tag": "ràng_buộc_toàn_vẹn_liên_bộ",
+           "patterns": [
+               "ràng buộc toàn vẹn liên bộ",
+               "rang buoc toan ven lien bo"
+           ]
+       },
+       {
+           "tag": "ràng_buộc_toàn_vẹn_thuộc_tính_tổng_hợp",
+           "patterns": [
+               "ràng buộc toàn vẹn thuộc tính tổng hợp",
+               "rang buoc toan ven thuoc tinh tong hop"
+           ]
+       },
+       {
+           "tag": "chu_trình",
+           "patterns": [
+               "chu trình",
+               "chu trinh"
+           ]
+       },
+       {
+         "tag": "phép_hội",
+         "patterns": [
+             "phép hội",
+             "phep hoi"
+         ]
+     },
+     {
+         "tag": "phép_giao",
+         "patterns": [
+             "phép giao",
+             "phep giao"
+         ]
+     },
+     {
+         "tag": "phép_hiệu",
+         "patterns": [
+             "phép hiệu",
+             "phep hieu"
+         ]
+     },
+     {
+         "tag": "phép_tích_đề-các",
+         "patterns": [
+             "phép tích đề-các",
+             "phep tich đe-cac"
+         ]
+     },
+     {
+         "tag": "phép_chọn",
+         "patterns": [
+             "phép chọn",
+             "phep chon"
+         ]
+     },
+     {
+         "tag": "phép_chiếu",
+         "patterns": [
+             "phép chiếu",
+             "phep chieu"
+         ]
+     },
+     {
+         "tag": "phép_gán",
+         "patterns": [
+             "phép gán",
+             "phep gan"
+         ]
+     },
+     {
+         "tag": "phép_đổi_tên",
+         "patterns": [
+             "phép đổi tên",
+             "phep đoi ten"
+         ]
+     },
+     {
+         "tag": "phép_kết",
+         "patterns": [
+             "phép kết",
+             "phep ket"
+         ]
+     },
+     {
+         "tag": "phép_chia",
+         "patterns": [
+             "phép chia",
+             "phep chia"
+         ]
+     },
+     {
+         "tag": "phép_thêm",
+         "patterns": [
+             "phép thêm",
+             "phep them"
+         ]
+     },
+     {
+         "tag": "phép_xóa",
+         "patterns": [
+             "phép xóa",
+             "phep xoa"
+         ]
+     },
+     {
+         "tag": "phép_sửa",
+         "patterns": [
+             "phép sửa",
+             "phep sua"
+         ]
+     },
+     {
+      "tag": "tính_tự_mô_tả",
+      "patterns": [
+          "tính tự mô tả"
+      ]
+      },
+      {
+         "tag": "tính_độc_lập",
+         "patterns": [
+             "tính độc lập"
+         ]
+      },
+      {
+         "tag": "tính_trừu_tượng",
+         "patterns": [
+            "tính trừu tượng"
+         ]
+      },
+      {
+         "tag": "tính_nhất_quán",
+         "patterns": [
+            "tính nhất quán",
+            "tinh nhat quan"
+         ]
+      }
+   ]
+}

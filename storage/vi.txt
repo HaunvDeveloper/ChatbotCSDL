@@ -1,0 +1,3 @@
+user: hi
+bot: Bạn muốn tìm hiểu vấn đề gì ?
+user: float
